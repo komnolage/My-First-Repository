@@ -1,2 +1,3 @@
 # My-First-Repository
-Enjoy! 
+Enjoy!
+Trying to understand how to do this...
